@@ -1,4 +1,4 @@
-# Volunteer side code
+# Volunteer client side code
 **Where someone can attend in their volunteer works.**
 ## Overall details
 
